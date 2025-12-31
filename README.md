@@ -65,8 +65,6 @@ Implemented on the **Product Listing Page** using JavaScript:
 ---
 
 
----
-
 ## ✅ Key Highlights
 - Clean and responsive UI
 - Fully functional filtering & sorting

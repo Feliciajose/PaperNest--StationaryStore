@@ -6,9 +6,13 @@ The project focuses on clean UI, structured navigation, and functional product i
 ---
 
 ## 🔗 Live Demo
+
+🌐 **Vercel Link:**  
+https://paper-nest-stationary-store.vercel.app
+
 📹 **Demo Video:**  
-Vercel link : https://paper-nest-stationary-store.vercel.app
-Demo : https://github.dev/Feliciajose/PaperNest--StationaryStore/blob/main/DemoVideo.mp4
+https://github.dev/Feliciajose/PaperNest--StationaryStore/blob/main/DemoVideo.mp4
+
 
 ---
 

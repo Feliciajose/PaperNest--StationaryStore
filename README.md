@@ -44,7 +44,7 @@ Implemented on the **Product Listing Page** using JavaScript:
 - Cart count updates dynamically across pages
 - Cart can be reset after order placement
 
----
+
 
 ### 📦 Order Confirmation
 - Clicking **Buy Now** displays an **Order Placed** card

@@ -1,4 +1,4 @@
-# PaperNest – Stationery Store 📝
+# PaperNest – Stationery Store 
 
 PaperNest is a multi-page stationery e-commerce website built using **HTML, CSS, and Vanilla JavaScript**.  
 The project focuses on clean UI, structured navigation, and functional product interactions without using any frameworks.
@@ -8,6 +8,7 @@ The project focuses on clean UI, structured navigation, and functional product i
 ## 🔗 Live Demo
 📹 **Demo Video:**  
 Vercel link : https://paper-nest-stationary-store.vercel.app
+DemoVideo.mp4
 
 ---
 
@@ -58,26 +59,6 @@ Implemented on the **Product Listing Page** using JavaScript:
 - No frameworks or libraries used
 
 ---
-PaperNest/
-│
-├── index.html
-├── product.html
-├── productdetail.html
-├── order.html
-│
-├── styles/
-│ └── styles.css
-│
-├── scripts/
-│ ├── products.js
-│ ├── scripts.js
-│ └── productdetail.js
-│
-├── assets/
-│ ├── images
-│ └── icons
-│
-└── README.md
 
 
 ---
@@ -99,5 +80,3 @@ GitHub: https://github.com/Feliciajose
 
 © 2025 PaperNest. All rights reserved.
 
-
-## 📁 Project Structure
